@@ -1,4 +1,4 @@
-name: CI
+name: markdown to table
 
 on:
   pull_request:
